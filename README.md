@@ -18,7 +18,7 @@ If the MSSQL database service allows remote connection, you can login as sa and 
 2. Retrieve a copy of the file via Invoke-NinjaCopy or via vulnerabilities like file inclusion. *Note: there might be a backup copy of master.mdf at "C:\Program Files\Microsoft SQL Server\SQL-VERSION\MSSQL\Backup\master.mdf", which is not locked by the SQL Server.*
 3. Extract the hash
 
-![](src/img1.png)
+![](images/img1.png)
 
 ## Cracking the hashes
 
