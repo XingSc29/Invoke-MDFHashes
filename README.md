@@ -31,4 +31,4 @@ john <hash file> -w=<wordlist> --format=mssql12
 
 ## Reference
 
-(Extracting Master MDF Hashes)[https://blog.xpnsec.com/extracting-master-mdf-hashes/].
+[Extracting Master MDF Hashes](https://blog.xpnsec.com/extracting-master-mdf-hashes/)
